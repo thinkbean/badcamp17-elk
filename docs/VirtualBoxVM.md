@@ -8,7 +8,7 @@ Visit https://www.virtualbox.org/ and install VirtualBox on your system.
 
 ## Download the VM
 
-http://files.tbops.co/badcamp2017/elk-ubuntu1604.ova
+https://s3-us-west-1.amazonaws.com/badcamp2017/elk/elk-ubuntu1604.ova
 
 ## Network Setup
 
