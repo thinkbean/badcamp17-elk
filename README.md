@@ -54,7 +54,7 @@ Below are the general steps involved with installing and configuring a system to
 
 If you want to use the VM, [Start Here](docs/VirtualBoxVM.md) and then skip to the SSH/Rsync Setup below.
 
-- [Elasticsearch & Kibana Installation]() (Already done on the VM)
+- [Elasticsearch & Kibana Installation](docs/InstallElasticsearchKibana.md) (Already done on the VM)
 - [Manage Index Template](docs/ManageIndexTemplates.md) (Already done on the VM)
 - [Logstash Install](docs/InstallLogstash.md) (Already done on the VM)
 
